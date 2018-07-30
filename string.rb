@@ -1,0 +1,2 @@
+puts "potato cat".length
+
